@@ -1,8 +1,8 @@
 
 <div>
     <a href="https://github.com/maganharenan">
-    <img width="400cm" height="180cm" src="https://github-readme-stats.vercel.app/api?username=maganharenan&show_icons=true&theme=tokyonight&border_radius=20"/>
-    <img width="400cm" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maganharenan&layout=compact&theme=tokyonight&border_radius=20"/>
+    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api?username=maganharenan&show_icons=true&theme=tokyonight&border_radius=20"/>
+    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maganharenan&layout=compact&theme=tokyonight&border_radius=20"/>
 </div>
   
 <div style="display: inline_block"><br>
