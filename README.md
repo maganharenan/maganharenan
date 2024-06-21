@@ -4,10 +4,9 @@ I'm into iOS development, mainly working with Swift and SwiftUI. I also have exp
 When I'm not developing iOS apps, I'm trying to figure out how to make games for SNES in assembly.
 Lately, I've also been working on some scripts for Aseprite to help generate art for retro games.
 
-<div>
-    <a href="https://github.com/maganharenan">
-    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api?username=maganharenan&show_icons=true&theme=tokyonight&border_radius=20"/>
-    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maganharenan&layout=compact&theme=tokyonight&border_radius=20"/>
+<div style="display: inline_block">
+    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api?username=maganharenan&show_icons=true&theme=tokyonight&border_radius=16"/>
+    <img width="400cm" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maganharenan&layout=compact&theme=tokyonight&border_radius=16"/>
 </div>
 
 ### Languages
@@ -39,6 +38,7 @@ Lately, I've also been working on some scripts for Aseprite to help generate art
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
+    <img align="center" height="30" width="30" src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" height="30" width="30" src="https://github.com/aseprite/aseprite/blob/main/data/icons/ase128.png">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
