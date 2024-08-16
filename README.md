@@ -50,6 +50,7 @@ Lately, I've also been working on some scripts for Aseprite to help generate art
 ### Hardware and OS
 <div style="display: inline_block">
     <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
+    <img align="center" height="30" width="40" src="https://png.pngtree.com/png-vector/20231115/ourmid/pngtree-nintendo-entertainment-system-fun-png-image_10465022.png">
     <img align="center" height="30" width="40" src="https://static.wikia.nocookie.net/donkey-kong/images/e/e7/SNES_USA.png/revision/latest?cb=20130613173901&path-prefix=pt">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
