@@ -41,10 +41,25 @@ My main tech stack is Swift, SwiftUI, Combine and UIKit. Also know my way around
 
 #
 
-### Check Out My Other Works
-Besides coding, I also like to compose and record songs, as well as do some drawing. If you’re interested, you can check out my music and artwork here:
+### 🎸 Check Out My Other Works
+Besides coding, I also make music, write programming articles and do some drawing.
+If you want to check any of that out, the links are below:
 
-<div style="display: inline_block">
-    <a href="https://giftofdarkness.com" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"/></a>
-    <a href="https://www.behance.net/maganharenan" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
-</div>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <h4><a href="https://codingwithrenan.com" target="_blank">Coding With Renan</a></h4>
+      My blog where I write about programming, side projects, tools I like, and whatever else seems useful.<br>
+      <a href="https://codingwithrenan.com" target="_blank">
+        <img src="https://codingwithrenan.com/wp-content/uploads/2024/11/cropped-untitled_artwork-1081.png?w=1472&h=1462" height="200">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h4><a href="https://giftofdarkness.com" target="_blank">Gift of Darkness</a></h4>
+      My death/doom metal band. Think heavy riffs, slow tempos, gothic vibe.<br>
+      <a href="https://giftofdarkness.com" target="_blank">
+        <img src="https://giftofdarkness.com/images/god-logo.png" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
